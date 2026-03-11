@@ -21,7 +21,7 @@ This project is a Streamlit-based AI chatbot that allows users to upload a PDF a
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/ai-pdf-chatbot.git
+git clone https://github.com/rishitha18-git/ai-pdf-chatbot.git
 
 Install dependencies:
 
